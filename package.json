@@ -1,0 +1,29 @@
+{
+  "name": "bodymovin-angular",
+  "version": "1.0.0",
+  "description": "Wrapper for awesome bodymovin library",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khachatour/bodymovin-angular.git"
+  },
+  "keywords": [
+    "bodymovin",
+    "angular",
+    "angular",
+    "1",
+    "angular",
+    "1.x",
+    "animation",
+    "js"
+  ],
+  "author": "Khachatur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khachatour/bodymovin-angular/issues"
+  },
+  "homepage": "https://github.com/Khachatour/bodymovin-angular#readme"
+}
